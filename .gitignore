@@ -1,4 +1,6 @@
 .venv
 __pycache__
+input/*
+!input/.gitkeep
 client_secrets.json
 credentials.json
